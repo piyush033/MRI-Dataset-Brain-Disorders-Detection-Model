@@ -1,4 +1,4 @@
-# BRAIN-TUMOUR-AND-ALZHEIMERS-DETECTION
+# MRI Dataset Brain Disorders Detection Model
 
 ![image](https://user-images.githubusercontent.com/100412728/188879157-211b6027-a48c-4f24-8c7a-ef4c6f326141.png)
 
